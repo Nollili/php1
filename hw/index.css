@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet&family=Quicksand:wght@300&display=swap');
+
+body{
+    background-color:blanchedalmond;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+
+/* font-family: 'Ballet', cursive; */
+
+.nav {
+    padding-top: 20px !important;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-family: 'Ballet', cursive;
+    font-size: 65px;
+    letter-spacing: 3px;
+    padding: 30px 10px 20px 5px !important;
+}
+
+.nav-item{
+    padding: 0px 20px !important;
+}
+
+p{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
